@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"aritmetica","l":"Aritmetica"},{"p":"aritmetica","l":"Operacion"}];updateSearchResults();
